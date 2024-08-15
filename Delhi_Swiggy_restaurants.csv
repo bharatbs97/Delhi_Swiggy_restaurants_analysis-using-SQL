@@ -1,0 +1,612 @@
+ID,Area,City,Restaurant,Price,Avg ratings,Total ratings,Food type,Address,Delivery time
+5208,Paschim Vihar,Delhi,Deli 63,400,2.9,80,"Street Food,Fast Food",Punjabi Bagh,60
+6075,Paschim Vihar,Delhi,London Grill Co,500,4,1000,"American,Healthy Food,Fast Food,Continental,Salads,Beverages,Desserts",Paschim Vihar,50
+7626,Vishnu Garden,Delhi,Sethi Restaurant,300,4,1000,North Indian,Pacific Mall,63
+7859,Central Markt Punjabi Bagh,Delhi,Wok In The Clouds,1500,4.5,50,"North Indian,Chinese,Thai,Continental",Punjabi Bagh,72
+8175,Paschim Vihar,Delhi,Chawla Kitchen,500,3.8,500,"Chinese,Mughlai,Indian,Snacks,Popular Brand Store,Fast Food",Punjabi Bagh,48
+8323,Punjabi Bagh,Delhi,Blue Water Grille,600,3.9,100,"North Indian,Chinese,Continental,Fast Food",Punjabi Bagh,68
+9739,Pitampura,Delhi,Mikky Peshawari Chicken & Fish (Since 1998),250,4,100,"North Indian,Mughlai,Tandoor,Kebabs,Indian,Beverages,Biryani,Punjabi,Seafood,Afghani,Thalis,Combo,Snacks,Barbecue,Home Food,Lucknowi",Nsp,53
+9755,Pitam Pura,Delhi,Shake Square,250,3.9,50,"Ice Cream,Beverages,Fast Food,Italian,Desserts",Jd Block Ashiana Chowk,50
+9757,Pitam Pura,Delhi,Shut Up & Eat,250,4.1,100,Indian,Nsp,27
+10208,Rohini,Delhi,Burger King,350,4.3,1000,"American,Fast Food",D Mall Twin District Center,35
+10285,Rohini,Delhi,Bombay Indianese Treat,300,2.9,80,Chinese,Prashant Vihar,61
+10298,Sector 7 Rohini,Delhi,Chalte Firte Momos & Special Foods,200,3.8,100,"Chinese,Fast Food,North Indian",Sector 7,36
+10312,Sector 8 Rohini,Delhi,Patiala Shahi Chicken Corner,400,4.1,100,"North Indian,Beverages",Sector 8,36
+10323,Prashant Vihar Rohini,Delhi,Subway,350,4.1,500,"Fast Food,Salads,Snacks,Desserts,Beverages",Fun City Mall Prashant Vihar,53
+10327,Sector 14 Rohini,Delhi,Pooran'S Ambala Wale,250,4,100,"North Indian,Chinese",Sector 14,48
+10336,Rohini,Delhi,Chit Chat,300,4.3,20,"North Indian,Chinese",Dda Market Sector 13,50
+10389,Prashant Vihar Rohini,Delhi,Bombay Bar-Be-Que,400,4.2,100,Indian,Prashant Vihar,57
+11834,Punjabi Bagh,Delhi,Grillz N Gravy,500,2.9,80,"Chinese,Mughlai,Indian",Club Road,69
+12020,Sector 11 Rohini,Delhi,U.S. Burger Point,200,3.7,50,Italian,Near Himalya Public School Sector 7,56
+12785,Sector 10 Rohini,Delhi,Pind Balluchi,400,3.8,100,"Mughlai,North Indian",Metro Walk Mall,40
+13079,Shalimar Bagh,Delhi,Chawla'S (Shalimar Bagh),400,4.2,50,"North Indian,Chinese",Bt Market Opp. Axis Bank,64
+13103,Sector 10 Rohini,Delhi,Berco'S,600,4.1,100,"Chinese,Thai,Asian,Beverages,Desserts,Oriental,Seafood,Pan-Asian",Metro Walk Mall,39
+15234,Paschim Vihar,Delhi,Hong Kong Express,450,4.3,100,"Chinese,Thai",Avtar Enclave Paschim Vihar,50
+15666,Rohini,Delhi,Behrouz Biryani,500,4.2,500,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Sector 8,38
+15846,Rohini,Delhi,Faasos,200,4.1,100,"Combo,Snacks,Beverages,Desserts,Indian",Sector 8,46
+16866,Rohini,Delhi,Pizza Hut,350,3.6,100,Pizzas,Aggarwal City Plaza (13),37
+17466,Ramesh Nagar,Delhi,Nando'S,450,4.1,500,"Fast Food,Portuguese,African,Grill,Salads",North West Avenue Road,69
+18049,Delhi,Delhi,Giri Momos Centre & Chinese Fast Food,300,3.9,100,Chinese,Rajasthali Market,46
+18879,Central Market Punjabi Bagh,Delhi,Dimsum Vs Sushi,1100,4,100,"Japanese,Pan-Asian,Chinese",Bhagwan Das Nagar,71
+19212,Delhi,Delhi,Sfc Soya Chaap ( Shalimar Bagh),200,4.1,100,"Snacks,North Indian,Chinese,Fast Food,Indian,Kebabs",Shalimar Bagh,64
+19221,Sector 8 Rohini,Delhi,Rolls 57 By Vhc,150,2.9,80,"Italian,Snacks,Desserts,Continental,Beverages,Combo",Netaji Subhash Place,49
+19228,Paschim Vihar,Delhi,Sunil Momos.Com,300,3.3,100,Fast Food,Paschim Vihar,52
+19981,Tilak Nagar,Delhi,Dunkin Donuts,250,4.3,100,"Desserts,Bakery,Beverages,Fast Food,Combo",Pacific Mall,72
+20526,Sector 3 Rohini,Delhi,Sahni Fish Corner,700,4.2,50,Indian,Sector-8,33
+20760,Rohini,Delhi,Kukki Da Dhaba,300,4.2,50,North Indian,Rohini,55
+20970,Rohini,Delhi,Oven Story Pizza,600,3.6,100,"Pizzas,Italian",Sector 8,47
+21105,Sainik Vihar,Delhi,Punjabi'S Eating Hub,400,4.2,100,"Mughlai,North Indian",Anshul Tower,44
+21552,Rohini,Delhi,Metro Grill,500,2.9,80,"North Indian,Chinese",Rohini,45
+21851,Tagore Garden Extension,Delhi,Imly,500,3.6,50,"Continental,South Indian,Street Food,Maharashtrian,Snacks,Mughlai,North Indian,Thalis,Desserts,Beverages,Sweets",Rajouri Garden,71
+21855,Krishna Park Tilak Nagar,Delhi,Khalsa Restaurant,300,4.1,500,"North Indian,Chinese",Tilak Nagar,73
+22127,Pitam Pura,Delhi,Kesar (Sainik Vihar),400,4.2,500,"North Indian,Chinese,Fast Food",Pitampura,40
+22490,Sector 3 Rohini,Delhi,Pikwik Since 1991,600,4.1,500,"Indian,Chinese,Continental,Mexican,Asian",Rohini,34
+22512,Pitam Pura,Delhi,Culinaria By Pikwik,200,4.2,500,"North Indian,Continental,Home Food,Indian",Shakti Vihar,52
+24162,Rohini,Delhi,Domino'S Pizza,400,4.3,500,Pizzas,Nn Mall Sector- 3,30
+24798,Behra Enclave Paschim Vihar,Delhi,Pakwan,300,3.7,1000,"Mughlai,North Indian,Chinese",Garg Plaza,46
+26723,Rohini,Delhi,Kfc,400,4.3,100,"American,Snacks",District Centre Manglam Place,35
+27658,Tagore Garden Extension,Delhi,Satguru Tiffin Service,200,3.5,20,"North Indian,Chinese,Desserts,Fast Food",Tagore Garden,73
+28037,Pitam Pura,Delhi,Subs N Shakes,250,3.5,50,"American,Salads,Beverages,Mexican,Desserts,Chinese,Combo",Pitampura,56
+28961,Pitam Pura,Delhi,Gulab Wala,350,4.3,5000,"North Indian,Desserts,South Indian,Street Food,Sweets,Beverages,Snacks,Indian",Pitampura,46
+29851,Rohini,Delhi,Firangi Bake,400,4.1,50,"Italian,Mexican,Pastas",Sector 8,46
+30218,Sector 11 Rohini,Delhi,Handi Chic-Fish,500,3.8,50,"North Indian,Chinese",Rohini,46
+30677,Sector 9 Rohini,Delhi,Noodle House,300,4,1000,"Chinese,Thai,Japanese,Tibetan",Dc Chowk Rohini,37
+30864,Karam Pura,Delhi,Guru Rakha (Karampura),500,4.3,100,"North Indian,Mughlai,Chinese,Tandoor",Karampura,65
+31265,Sector 7 Rohini,Delhi,The Cake Cafe,350,4.1,500,"Bakery,Chinese",Sector 7 Rohini,33
+31516,Tilak Nagar,Delhi,Street Foods By Punjab Grill,350,3.8,100,"North Indian,Indian,Biryani,Punjabi,Fast Food,Kebabs,Mughlai,Desserts",Tilak Nagar,73
+32858,Sector 9 Rohini,Delhi,Wong'S Kitchen,250,3.8,500,"Chinese,Fast Food,Asian",Sector- 9,37
+34072,Sector 14 Rohini,Delhi,Crispy Bites,400,3.7,500,"North Indian,Italian",Rohini Sec-14,46
+34463,Sector 7 Rohini,Delhi,Demould,400,4.1,100,"Desserts,Bakery",Sector 7,36
+35242,Sector 9 Rohini,Delhi,Tikka Junction (Rohini),400,3.8,100,"North Indian,Chinese",Dc Chowk,37
+35835,Rohini,Delhi,Sweet Truth - Cake And Desserts,450,4.3,100,"Ice Cream,Bakery,Desserts,Beverages",Sector 8,37
+36092,Tagore Garden Extension,Delhi,Kafilla,300,3.7,50,"Tandoor,North Indian,Chinese,Beverages",Janakpuri,65
+36520,Rohini,Delhi,Ase China,150,3.8,50,Chinese,Shaheed Colonel Guruveer Singh Sarna Marg Rajapur,45
+37086,Sector 2 Rohini,Delhi,Your'S Pizza,400,3.5,100,Italian,Sector-2Rohini,29
+37136,Vishnu Garden,Delhi,The Pizza Pie,500,2.9,80,"Pizzas,Snacks,Italian,Beverages",Tilak Nagar,72
+37709,Paschim Vihar,Delhi,Quality Cake Shop,250,4.1,20,"Desserts,Italian,Chinese,Beverages",Punjabi Bagh,58
+37726,Paschim Vihar,Delhi,Waffle Lust,200,4,100,"Desserts,Beverages",Bhera Enclave,49
+40819,Punjabi Bagh,Delhi,Everest Momos & Chinese Fast Food,200,3.9,100,Chinese,Punjabi Bagh,64
+42380,Rohini,Delhi,Lala'S(Khao Or Khane Do),400,2.9,80,"Italian,Chinese,Fast Food",Sector 9Rohini,44
+43183,Prashant Vihar Rohini,Delhi,Nutriobox,450,4.2,500,"Salads,Continental,Juices,Healthy Food",Prashant Vihar,51
+43727,Sector 13 Rohini,Delhi,Prashant Roll,200,4.1,100,Snacks,Rohini Sector 13,45
+44058,Budh Vihar,Delhi,Wah Ji Wah ( Budhvihar),250,3.8,1000,"Indian,Chinese",Budh Vihar,21
+45703,Paschim Vihar,Delhi,Hot Spot Roll Corner,150,4.3,20,Fast Food,Paschim Vihar,57
+46864,Rohini,Delhi,China Town Kathi Rolls,250,4.6,20,Fast Food,Rohini,44
+47137,Paschim Vihar,Delhi,Da Pizza Makers,400,3.4,50,"Pizzas,Italian,Snacks",Paschim Vihar,65
+49007,Ashok Vihar,Delhi,Cake 24X7,200,2.9,80,Bakery,Opposite Sbi,58
+49628,Central Market Punjabi Bagh,Delhi,Dashi - Dimsum & Sushi Bar,1000,4.3,100,"Japanese,Chinese,Pan-Asian,Sushi",Central Market Punjabi Bagh,65
+51932,Rohini,Delhi,Khalsa Dhaba,500,2.9,80,North Indian,Sector 2,35
+52338,Paschim Vihar,Delhi,Da Pizza Bakers,400,2.9,80,"Pizzas,Fast Food",Paschim Vihar,61
+52566,Rohini,Delhi,Jw Solitaire,800,2.9,80,"North Indian,Chinese,Continental",Adjoining M2K,37
+55795,Tilak Nagar,Delhi,Chili'S American Grill & Bar,900,4.2,100,"American,Salads,Mexican,Italian,Steakhouse",Pacific Mall Tagore Garden,76
+60152,Sector 8 Rohini,Delhi,Chinese Fiesta (Since 1998),150,3.6,20,"Chinese,Continental,Snacks,Beverages,Italian,Desserts",Pitampura,50
+60357,Subhash Nagar Petrol Pump,Delhi,Momos Corner,300,4.2,500,"Chinese,Pan-Asian",Jail Road,70
+60471,Uttam Nagar,Delhi,Rolls Mania,200,3.6,20,Beverages,Main Najafgarh Road,75
+61028,Ramesh Nagar,Delhi,Papajii & Sons (Punjabi Bagh),250,3.8,50,"Indian,Chinese,Mughlai",Club Road Market,71
+61238,Paschim Vihar,Delhi,For God'S Cake,300,3.9,100,"Bakery,Desserts,Beverages,Pizzas,Pastas,Snacks,Fast Food,American",Paschim Vihar,46
+61290,Ramesh Nagar,Delhi,Papaji & Sons,250,2.9,80,"Mughlai,Chinese,Continental,Indian,Italian",Paschim Vihar,78
+62876,Rohini,Delhi,Lunchbox,200,4.1,100,"North Indian,Punjabi,Combo,Biryani,Healthy Food,Jain,Thalis,Indian,Mughlai,Desserts",Sector 8,40
+65319,Block Gg1 Vikaspuri,Delhi,Muradabadi Biryani,150,4,100,North Indian,Vikas Puri,74
+68100,Sector 7 Rohini,Delhi,Kake Da Hotel,600,4.1,1000,"North Indian,Mughlai,Punjabi",Rohini,36
+70400,Sector 8 Rohini,Delhi,Kc Restaurant,200,4.1,100,"Chinese,Street Food,Fast Food",Rohini,39
+71071,Sector 9 Rohini,Delhi,Moroca (Rohini),250,4,500,Fast Food,Sector 9 Rohini,34
+71152,Pitam Pura,Delhi,Vikas Foods,400,4.3,50,North Indian,Rani Bagh,47
+71392,Pitam Pura,Delhi,Bobby Punjabi Rasoi,300,4.2,100,"Indian,Mughlai,Chinese",Pitampura,53
+73682,Sector 7 Rohini,Delhi,Biryani Blues,400,4.1,500,"Biryani,Hyderabadi,Lucknowi,Kebabs,Desserts,Beverages",Rohini,38
+74361,Sector 8 Rohini,Delhi,Instapizza,400,4.1,100,"Pizzas,Italian,Fast Food,Beverages,Desserts",Rohini,44
+76208,Sector 8  Rohini,Delhi,Chinese Palace By Vhc,150,2.9,80,"Chinese,Beverages,Snacks,Ice Cream,Combo,Thalis",Jhilmil Colony,49
+77646,Ashok Nagar,Delhi,Dilli Darbar,300,3.6,20,"Mughlai,Indian",Tilak Nagar,70
+81776,Rohini,Delhi,Bonfire,200,3.5,50,North Indian,Sector-16,55
+82022,Rohini,Delhi,Pifi Pizza,350,3.8,20,"Italian,Mexican,Beverages",Rohini,57
+83528,Rohini,Delhi,Canteen Central - Burgers Pastas And More,300,4,100,"American,Pastas,Fast Food,Snacks,Desserts,Beverages,Asian,Italian,Tibetan,North Indian",Rohini,33
+85218,Paschim Vihar,Delhi,Grills And Buns,200,3.8,100,"Fast Food,Snacks,Combo,Italian,Beverages,Continental",Paschim Vihar,50
+88858,Paschim Vihar,Delhi,Pizza Pepper,500,2.9,80,"Fast Food,Italian",Gtb Nagar,57
+89571,Rohini,Delhi,Ubq By Barbeque Nation,300,3.9,500,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Rohini West Metro Station Complex,38
+91817,Pitampura,Delhi,Burgrill - The Win Win Burger,250,4.4,100,"Salads,Fast Food,Desserts,Continental,Beverages,American",Pitampura,46
+94417,Punjab Bagh,Delhi,The Pizza Dough,200,2.7,20,"Continental,American,Fast Food,Italian,Mexican,Beverages",Club Road,76
+101496,Pitam Pura,Delhi,Oriental Mom,600,4.2,100,"Asian,Chinese,Thai,Burmese",Pitampura,60
+104321,Tagore Garden Extension,Delhi,Empress Delhi,800,2.9,80,"Chinese,North Indian,Continental",Rajouri Garden,78
+107763,Prashant Vihar Rohini,Delhi,Haq Se Punjab,300,4.3,20,"North Indian,Continental",Rohini Sector 14,61
+107820,Sector 37,Delhi,Pizza Burger Point,200,2.9,80,"Burmese,Pizzas,North Indian,Fast Food,Chinese,Italian,Beverages",Rithala Metro Station Near Sai Baba Mandir,45
+107823,Sector 37,Delhi,Italiano Kitchen,200,2.9,80,"Italian,North Indian,Chinese,Fast Food,Beverages",Rithala Metro Station Sai Baba Mandir,49
+109791,Rohini,Delhi,Tandoori Chubara,400,4.2,100,Tandoor,Block-7 Pocket -1 Sector-16,52
+111795,Shalimar Bagh,Delhi,Mandarin Oak- The Heavenly Chinese,350,4.2,50,"Chinese,Asian,Thai",Shalimar Bagh,72
+114370,Rohini,Delhi,Barista,350,3.5,20,"Beverages,Snacks,Desserts",Unity One Mall Rohini,44
+123390,Sector 7 Rohini,Delhi,Bingers Biryani,200,2.9,80,"Biryani,Fast Food",Rohini,38
+126943,Rohini,Delhi,Slurppy- The Shake Factory,400,2.9,80,"Fast Food,Italian,Beverages,Desserts,Continental,Pastas",Sector 11,59
+128589,Sector 8 Rohini,Delhi,Shakes House By Vhc,150,2.9,80,"Beverages,Continental,Italian,Combo,Desserts,Snacks",Autram Lines,51
+135975,Sector 9 Rohini,Delhi,Wat-A-Burger! - India Ka Burger,200,4,100,"Fast Food,American,Indian,Snacks,Desserts,Beverages",Sector 7,30
+136701,Rohini,Delhi,Binger'S Tandoori Momos,250,2.9,80,Chinese,Shiva Road Above Tuli Property,45
+136793,Pitam Pura,Delhi,Second Wife,300,2.9,80,"Fast Food,Italian",Nsp,58
+136796,Pitam Pura,Delhi,Grand Peshawari,400,2.9,80,"North Indian,Mughlai",Nsp,59
+136798,Pitam Pura,Delhi,Bad Food,200,2.9,80,"Italian,American,Beverages",Rohini,63
+141274,Rohini,Delhi,Tasty Tasty Home Made Food,200,2.9,80,North Indian,Rohini,38
+141648,Rohini,Delhi,Tandoori Momos Wala,200,2.9,80,Chinese,Sector 7,47
+141938,Rohini,Delhi,Khana Khazana Food Van,300,3.4,50,Chinese,Rohini,44
+142037,Rohini,Delhi,Pizza Paradise By Vhc,150,4.8,20,"Pizzas,Beverages,Italian,Continental,Biryani,Desserts,Combo",Chattarpur,44
+142880,Moti Nagar,Delhi,Budget Bite,300,2.9,80,"Chinese,Snacks,Fast Food",Kirti Nagar,74
+146526,Sector 6 Rohini,Delhi,Veerji Malai Chaap Wale (Rohini),400,3.8,500,"North Indian,Snacks",Sector 7 Rohini,28
+147986,Sector 8 Rohini,Delhi,Royal Burger By Vhc,150,2.9,80,"Beverages,Snacks,Combo,Chinese,Continental,Italian,Pastas",Nsp,47
+150802,Sector 13 Rohini,Delhi,Prashant Momos & Special Chinese Foods (Pure Veg),200,3.9,100,Chinese,Rohini,52
+151192,Pitam Pura,Delhi,Deem Seem,20,2.9,80,North Indian,Pitampura,54
+152458,Shalimar Bagh,Delhi,Curry Company,600,2.9,80,"Mughlai,Chinese",Shalimar Bagh,70
+155090,Sector 1 Rohini,Delhi,Guruh Cakes (100% Veg),150,3.7,100,"Bakery,Desserts,Fast Food,Chinese,Snacks",Sector-1,28
+156117,Tagore Garden Extension,Delhi,Dashmesh Tiffin Service,300,2.9,80,"North Indian,Beverages",Tagore Garden Extension,75
+156822,Paschim Vihar,Delhi,Sandoz Paschim Vihar,300,4.1,500,"North Indian,Chinese",Punjabi Bagh,49
+157267,Sector 9 Rohini,Delhi,Am2Pm Fitness Cafe,200,3.7,50,"Beverages,Thalis,Indian",Sector-9,53
+157772,Rohini,Delhi,The Good Bowl,400,4.2,50,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",Sector 8,40
+161230,Paschim Vihar,Delhi,The Roll Point,300,2.9,80,Fast Food,Paschim Vihar,52
+163212,Rohini,Delhi,The Hungry Pit,250,3.6,20,"Italian,Continental,Beverages,Fast Food,Combo",Rohini,47
+168043,Sector 7 Rohini,Delhi,Burger Singh (Big Punjabi Burgers),250,4,500,"Snacks,Fast Food,Indian,American,Beverages,Desserts,Mughlai,North Indian,Biryani,Tibetan,Chinese,Continental",Sector-7,33
+168509,Sector 51,Delhi,Shakes And Chinese,250,2.9,80,"Indian,Chinese",Sector-7,45
+170132,Rohini,Delhi,Biryani Kingdom,250,2.9,80,Chinese,Sector 7 Rohini,40
+170463,Pitam Pura,Delhi,Bikaner Sweet Corner,300,4.4,100,"North Indian,Desserts,Sweets",Harsh Vihar Chowk Pitampura,46
+170592,Rohini,Delhi,Cheers Resto Bar,300,2.9,80,North Indian,Parshant Vihar,56
+170891,Begampur,Delhi,Cake 24 7,600,2.9,80,Bakery,Sector- 24,57
+171799,Rohini,Delhi,Lazeez Biryani,200,2.9,80,Indian,Sector-7,46
+175225,Moti Nagar,Delhi,The Street Bakers,200,4.2,20,"Bakery,Chinese,Snacks",Moti Nagar,71
+177042,Rohini,Delhi,Awadhi Biryani,200,2.9,80,"Chinese,Fast Food,Combo,Biryani,Beverages",Sector-7,40
+179693,Rohini,Delhi,Biryani Empire,300,3,20,"Indian,Chinese",Shiva Road Sector 7,38
+179816,Rohini,Delhi,Chicken Dum Biryani,300,2.9,80,"Mughlai,Indian",Shiva Road,45
+180161,Rohini,Delhi,Mughlai Biryani,300,2.9,80,"Indian,Continental,Snacks",Shiva Road,40
+180171,Rohini,Delhi,Biryani Zaika,200,2.9,80,"Biryani,Chinese,North Indian",Sector 7 Rohini,45
+181984,Rohini,Delhi,Biryani Wale,300,3.3,20,Indian,21 Sector,36
+186196,Rohini,Delhi,The Biryani Life,250,4.2,50,"Biryani,Hyderabadi,Lucknowi,North Indian,Mughlai,Combo,Desserts",Sector 8,39
+186873,Sector 8 Rohini,Delhi,Patiala Shahi Kitchen,300,4.1,100,Indian,Rohini Sector 8,36
+186879,Rohini,Delhi,Shakespeer,300,2.9,80,"Fast Food,Pizzas,Beverages,Snacks",Rohini,62
+188019,Mukherjee Nagar,Delhi,Zaika E Dilli 6,300,2.9,80,Mughlai,Mukherjee Nagar,53
+201300,Pitam Pura,Delhi,Khichdi Experiment,250,4.3,100,"Home Food,Indian,Healthy Food,North Indian,Snacks,Maharashtrian,Sweets,South Indian,Combo,Desserts,Beverages,Kebabs",Rohini,33
+206503,Rohini,Delhi,Rohini Rasoi,250,2.9,80,"Chinese,Indian",Rohini,38
+219476,Tagore Garden Extension,Delhi,Cake@99,100,2.9,80,Bakery,Road No 28,73
+219718,Pitam Pura,Delhi,Bowlsome,250,3.9,100,"Asian,North Indian,Continental,Healthy Food,Punjabi,Home Food,Oriental,Desserts,Beverages,Pan-Asian,Bengali,Mangalorean,Kashmiri,Lucknowi,Chinese,Sweets,Kebabs,Combo,Rajasthani,Awadhi",Rohini,35
+221076,Paschim Vihar,Delhi,Roll King,300,2.9,80,Indian,Dda Gole Market A-4 Block,57
+221262,Sector 73,Delhi,Hashtag Foods,400,3.9,100,"Continental,Italian",Ground Floor Rg Mall,37
+222096,Rohini,Delhi,Squeezer Juice And Shakes,250,3.9,20,"Juices,Beverages,Ice Cream",Rohini,34
+225317,Rohini,Delhi,La Pino'Z Pizza,500,3.9,1000,Pizzas,Dc Chowk,45
+232278,Pitam Pura,Delhi,Shawarma Wala,300,3.4,50,North Indian,Nsp,40
+232802,Sector 7 Rohini,Delhi,The Burger Club,250,4.2,1000,"Fast Food,American,Beverages,Desserts",Rohini,35
+237387,Tagore Garden Extension,Delhi,The Thali Station,200,3.8,20,"North Indian,Punjabi,Desserts",Rajouri Garden,79
+238549,Rohini,Delhi,Nine 11,800,4.1,20,"Indian,North Indian",Rohini,50
+241345,Pitam Pura,Delhi,Hong'S Kitchen,250,3.8,100,"Chinese,Asian,Combo,Tibetan",Pp City,56
+243665,Tilak Nagar,Delhi,Asia Seven,350,3.9,50,"Chinese,Asian,Pan-Asian,Snacks",Pacific Mall,75
+243852,Paschim Vihar,Delhi,The Basil Box,1000,4,20,"Italian,Pizzas,Salads",Paschim Vihar,56
+246208,Rohini,Delhi,Bikaner Sweet India,200,3.3,50,Indian,Rohini,38
+246644,Rohini,Delhi,Meal Studio,250,3.9,20,"North Indian,Indian,Combo,Desserts,Beverages,Home Food,Healthy Food,Thalis,Maharashtrian",Rohini,32
+249050,Paschim Vihar,Delhi,Punjabi Dhaba - Paschim Vihar,300,4,20,"Indian,North Indian",Paschim Vihar,48
+254021,Paschim Vihar,Delhi,Mcdonald'S,400,4.3,1000,American,Delhi Paschim Vihar,53
+254886,Pitam Pura,Delhi,Paratha Experiment,200,3.9,20,"North Indian,Punjabi,Home Food,Indian,Snacks,Combo,Desserts,Beverages,South Indian,Continental,Chettinad,Healthy Food,Chinese,Sweets",Rohini,39
+256688,Budh Vihar,Delhi,Mummy Ki Rasoi,300,3.2,20,Indian,Budh Vihar,48
+263294,Rohini,Delhi,Mr Chicken Changezi,200,3.7,20,Indian,Rohini,44
+263383,Paschim Vihar,Delhi,Five Star Dhaba,200,3.8,100,Punjabi,Paschim Vihar,49
+264577,Sector 11 Rohini,Delhi,Uncle'S Junkyard,250,2.9,80,"Chinese,Pizzas,Snacks",Rohini,60
+265913,Paschim Vihar,Delhi,Momos Xpress,300,3.9,20,Chinese,Paschim Vihar,50
+268311,Rohini,Delhi,Dawat Art Of Cooking,250,2.9,80,North Indian,Prashant Viharrohini Sector 14,55
+272029,Moti Nagar,Delhi,Chinese Food Nation,300,3.7,20,"Continental,Chinese",Moti Nagar,69
+275376,Paschim Vihar,Delhi,Delhi Cart & Bakers By Radisson Blu,1000,4.1,20,"Biryani,North Indian,Punjabi,Oriental,Sweets,Desserts,Thai,Chinese,Mughlai",Paschim Vihar,58
+279863,Rohini,Delhi,Home Plate,160,4.2,500,"Home Food,North Indian,Healthy Food,Thalis,Desserts,Indian,Punjabi",Sector 7,32
+289133,Rohini,Delhi,Uncle Butter Omelette,250,2.9,80,Snacks,Rohini,61
+289145,Rohini,Delhi,Deluxe Butter Omlette,200,2.9,80,North Indian,Rohini,59
+290521,Pitam Pura,Delhi,Hong'S Momos,200,2.9,80,"Chinese,Asian,Fast Food,Combo,Tibetan",Ppcc,64
+290829,Rohini,Delhi,Sukh Chai,200,2.9,80,"Street Food,Pizzas,Beverages,Fast Food",Rajapur Sector 9,46
+295283,Central Markt Punjabi Bagh,Delhi,Mirza,250,4,500,"North Indian,Chinese,Biryani,Snacks,Chaat,Beverages",Punjabi Bagh,68
+299312,Rohini,Delhi,Meals And Bowls,300,4,20,"North Indian,Punjabi,Mughlai,Home Food",Rohini,36
+299369,Sec-9 Rohini,Delhi,Home Factory,200,2.9,80,"North Indian,Continental,Chinese",Rohini,50
+301104,Tagore Garden Extension,Delhi,Andhra Kodi Pulao,350,4.3,20,"Biryani,North Indian,Kebabs",Rajouri Garden,67
+302687,Rohini,Delhi,Barbeque Nation,600,3.5,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Unity One Mall 6Th Floor,44
+306090,Moti Nagar,Delhi,Muradabadi Chicken Biryani,400,2.9,80,Biryani,Kirti Nagar,70
+306795,Pacific Mall Subhash Nagar,Delhi,Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani,1200,4.2,100,"Indian,North Indian,Mughlai,Kebabs,Biryani,Tandoor",Rajouri Garden,76
+306897,Rohini,Delhi,Kiran'S Kitchen,400,2.9,80,"Indian,Chinese,Mughlai,Biryani,Punjabi",Rohini,55
+307466,Rohini,Delhi,Mosaic By Crowne Plaza Rohini,1000,4.6,20,"North Indian,Bakery,Salads,Chinese,Juices,Desserts",Sector 10,48
+308680,Rohini,Delhi,Nine Dragon,400,3.7,50,"Chinese,Indian",Rohini,37
+311944,Punjabi Bagh,Delhi,Ancient Tawa,400,4.1,50,Indian,Punjabi Bagh,65
+316164,Tilak Nagar,Delhi,Castle'S Barbeque,500,2.9,80,Chinese,Rajouri Garden,60
+317283,Sector 9 Rohini,Delhi,My Diet Cafe,250,3.7,20,"North Indian,Indian,Beverages",Rohini,51
+317811,Rohini,Delhi,Jai Shree Radhey Radhey Tiffin Service,200,2.9,80,Indian,Rohini,59
+319428,Tagore Garden Extension,Delhi,China Hot & Hot,200,3.7,100,"Chinese,Tandoor,Indian",New Moti Nagar,66
+319600,Rohini,Delhi,Phulka Restaurant,200,3.8,20,"North Indian,Tandoor,Punjabi,Chinese,Pizzas,Fast Food,Salads,Desserts",Sector 25,52
+320369,Paschim Vihar,Delhi,Hotelwaterfall,200,2.9,80,"Indian,Chinese",Paschim Vihar,60
+321815,Rajouri Garden,Delhi,Fabcafe By Fabindia,1000,4.2,100,"North Indian,Healthy Food,Biryani,Beverages",Rajouri Garden,73
+321912,Vishnu Garden,Delhi,Paratha Universe,250,2.9,80,"Chinese,Indian",Rajouri Garden,70
+322886,Pitam Pura,Delhi,The Biryani Experiment,500,4.3,100,"Biryani,Hyderabadi,Indian,Kebabs,North Indian,South Indian,Andhra,Afghani,Combo,Desserts,Beverages,Punjabi,Kerala,Sweets,Arabian,Lucknowi,Parsi,Tandoor",Rohini,36
+323659,Rohini,Delhi,Pizza King,300,4.2,20,Fast Food,Rohini,61
+324004,Rohini,Delhi,Lazeez,200,2.9,80,Fast Food,Rohini,46
+324868,Pitam Pura,Delhi,Josh,400,2.9,80,"Indian,Chinese,Tandoor,Italian,Fast Food",Nsp,64
+325021,Rohini,Delhi,Destiny Of D3,200,2.9,80,Punjabi,Rohini Sector 7,38
+326743,Paschim Vihar,Delhi,Pizza Pan,500,2.9,80,"Pizzas,Fast Food",Paschim Vihar,65
+328944,Pitam Pura,Delhi,Giri Momos Wala,200,3.9,100,"Chinese,Fast Food",Nsp,47
+331067,Pitam Pura,Delhi,Chef Brothers Shawarma Roll,500,2.9,80,North Indian,Nsp,53
+331641,Rohini,Delhi,Shake'N Food,350,4.7,20,Beverages,Rohini,46
+335812,Rohini,Delhi,Little London,300,2.9,80,"Chinese,Continental,Pizzas,Pastas,Snacks,Fast Food",Rohini,40
+335816,Rohini,Delhi,Chee Chee,300,2.9,80,"Italian,Continental,Pizzas",Rohini,40
+335883,Paharganj,Delhi,Red Dragon,250,2.9,80,"Chinese,Continental,Beverages",Sector-3,39
+336053,Rohini,Delhi,Wendy'S,200,4.1,100,American,Sector 8,40
+336272,Sector 16 Rohini,Delhi,Punjabi Angithi,400,4,1000,"North Indian,Chinese,Punjabi,Kebabs,Fast Food,Tandoor",Rohini,48
+336796,Paschim Vihar,Delhi,Kabab Hut,300,2.9,80,"Indian,Tandoor,Biryani",Paschim Vihar,49
+336801,Sector 7 Rohini,Delhi,On A Roll,250,4,100,Fast Food,Rohini,36
+338105,Tilak Nagar,Delhi,Cake & Co.,300,2.9,80,"South Indian,Biryani,Desserts",Tilak Nagar,70
+339608,Shalimar Bagh,Delhi,Shalimar Cafe  By Amandeep Pure Veg,200,4.3,50,"Indian,Chinese,Italian",Ashok Vihar,65
+340236,Rohini,Delhi,Mmj Delights,400,2.9,80,"Chinese,Fast Food,Pizzas,Pastas,Indian",Rohini,58
+340655,Shakurpur,Delhi,Ali- Karim'S Food,300,2.8,20,"Indian,Mughlai",Nsp,59
+342007,Rohini,Delhi,Biryani Chowk,250,2.9,80,"Chinese,Indian",Rohini,46
+342558,Rohini,Delhi,Turban Coffee,500,2.9,80,"Italian,Fast Food,Snacks,Beverages",Rohini,40
+343432,Sector 16 Rohini,Delhi,Chinese Veg Crunch,300,4,100,"Chinese,Fast Food",Rohini,49
+343908,Rohini,Delhi,Al Karim S Foods,200,3.9,50,Indian,Rohini,44
+343941,Rohini,Delhi,Chicken Bites,400,2.9,80,"Indian,Tandoor,Kebabs",Rohini,53
+345212,Sector 3 Rohini,Delhi,Pikwik Bakers,600,3.5,100,"Desserts,Bakery",Rohini,35
+345547,Sector 16 Rohini,Delhi,Food Of Dreams,300,4,100,"North Indian,Chinese",Rohini,51
+346224,Rohini,Delhi,Zaikedaar Biryani,250,2.9,80,"Fast Food,North Indian",Rohini,45
+346225,Rohini,Delhi,Backstreet Cafe,300,4,20,"Chinese,Fast Food,Pizzas,Snacks",Rohini,50
+346275,Rohini - Sector 16,Delhi,Mims Roll N Biryani,200,2.9,80,Indian,Gtb Nagar,53
+346473,Rajouri Garden,Delhi,Burgerama,600,4.3,500,"American,Fast Food,Snacks,Beverages,Italian-American",Rajouri Garden,70
+346778,Rohini,Delhi,Biryani Hi Biryani,250,2.9,80,Indian,Rohini,44
+346921,Pitam Pura,Delhi,Roll City,300,2.9,80,Fast Food,Nsp,56
+347288,Pitam Pura,Delhi,K3 Kurry Ka King,300,4,50,"Chinese,Continental,Mughlai",Nsp,39
+347479,Rohini,Delhi,Happy Hours(Hr),300,2.9,80,Combo,Rohini,54
+347493,Sector 7 Rohini,Delhi,Hudson Chopsticks,300,4.2,1000,"Chinese,Thai,Pan-Asian,Oriental",Rohini,44
+348395,Rohini,Delhi,The Burger Bistro,200,2.9,80,"American,Fast Food,Beverages",Rohini,52
+348417,Sector 3 Rohini,Delhi,Variation (Rohini),350,4.1,100,"Chinese,Beverages,Fast Food",Rohini,31
+348725,Pitam Pura,Delhi,Chinese By Nature,100,3.2,50,"Chinese,Indian",Nsp,53
+349801,Tagore Garden Extension,Delhi,Sardar Ji Family Restaurant (Raja Garden),300,4.2,100,"Punjabi,Chinese,North Indian,Beverages,Tandoor,Kebabs,Indian,Fast Food",Rajouri Garden,73
+349967,Rohini,Delhi,Hot & Spicy Restaurant,300,2.9,80,"Chinese,Indian,Tandoor",Rohini,49
+350537,Rohini,Delhi,Hyderabadi Biryani Zaika,250,2.9,80,"Biryani,Indian",Rohini,44
+351222,Rohini,Delhi,Biryani Chaska,250,2.9,80,"Italian,Chinese,Indian,Biryani,Snacks",Rohini,47
+352683,Rohini,Delhi,Rhythm Room,300,2.9,80,"Continental,Beverages,Chinese",Rohini,44
+352917,Rohini,Delhi,Desi Cafe,300,2.9,80,Indian,Rohini,51
+353383,Rohini,Delhi,Madhu'S Kitchen,200,4,20,"North Indian,Indian",Rohini,47
+354264,Rohini,Delhi,The Waffle Co,300,4.3,50,"Desserts,Beverages",Rohini,54
+354629,Rohini,Delhi,Box8 - Desi Meals,250,4,500,"North Indian,Biryani,Combo,Snacks",Rohini,38
+354630,Rohini,Delhi,Itminaan Biryani - Dum Pukht,250,4,50,"North Indian,Biryani,Combo,Snacks",Rohini,46
+354631,Rohini,Delhi,Mealful Rolls - Meals In A Roll,250,4.1,50,"North Indian,Biryani,Combo,Snacks",Rohini,46
+354632,Rohini,Delhi,Leancrust Pizza - Thincrust Experts,350,4.2,50,"Pizzas,Italian",Rohini,45
+354893,Patel  Nagar,Delhi,Sk 2 Pizza And Burger,200,2.9,80,"Pizzas,Continental",Kirti Nagar,71
+355867,Punjabi Bagh,Delhi,Wonder Bao,800,4.1,50,"Chinese,Fast Food,Pan-Asian",Punjabi Bagh,71
+356158,Rohini,Delhi,Flavour Of Spices,250,2.9,80,"Mughlai,North Indian,Chinese",Rohini,58
+356575,Rohini,Delhi,Momo Magic Cafe,300,4.3,100,"Beverages,Chinese,Fast Food",Rohini,40
+356627,Sector 8 Rohini,Delhi,Rollsome,250,4,500,Beverages,Rohini,36
+357470,Rohini,Delhi,Hyderabadi Dum Biryani,250,3.4,50,"Biryani,North Indian",Rohini,35
+357471,Rohini,Delhi,Purani Dilli Biryani,250,2.9,80,"Indian,Chinese,Continental",Rohini,36
+357476,Rohini,Delhi,Dilli 6 Biryani,250,2.9,80,"Indian,Biryani,Chinese,Combo",Rohini,44
+358139,Pitam Pura,Delhi,Kuremal Mahavir Prasad Kulfi Wale - Kuremal Kulfi,200,3.9,20,Ice Cream,Nsp,45
+358727,Rohini,Delhi,Chhaunk,150,4.3,100,"North Indian,Desserts",Rohini,47
+359220,Sector 10 Rohini,Delhi,Pind De Chur Chur Naan By Pind Balluchi,600,3.4,20,North Indian,Rohini,45
+359510,Sector 10 Rohini,Delhi,The Bowl Club By Pind Balluchi,600,3.9,20,North Indian,Rohini,45
+359938,Rohini,Delhi,Kahi Se Bhi,300,2.9,80,"Biryani,Mughlai,Tandoor,North Indian",Rohini,45
+361532,Sector 29,Delhi,Dana Paani,300,2.9,80,"Biryani,North Indian",Rohini,48
+361537,Sector 8,Delhi,Raja Bhoj & Co.,300,2.9,80,"Tandoor,Indian",Rohini,57
+361543,Sector 29,Delhi,Rozi Roti,300,2.9,80,"Biryani,Mughlai,North Indian,Tandoor",Rohini,49
+361653,Rohini,Delhi,Bhukha Sher,300,2.9,80,"North Indian,Tandoor,Biryani,Mughlai",Rohini,40
+361654,Rohini,Delhi,Shanghai Chillie'S,300,2.9,80,"Chinese,Fast Food,Thai",Rohini,45
+362068,Vishnu Garden,Delhi,Budget Bytes,150,3.9,20,"Chinese,Arabian,Fast Food",Janakpuri,76
+362274,Rohini,Delhi,Fat Chinese Chef,300,2.9,80,"Chinese,Fast Food",Rohini,52
+362276,Rohini,Delhi,Dou Chi,300,2.9,80,"Fast Food,Indian,Chinese",Rohini,52
+362280,Rohini,Delhi,Roti Aur Boti Xpress,300,2.9,80,"Biryani,Mughlai,Tandoor,North Indian,Combo",Rohini,45
+362286,Rohini,Delhi,Chopper'S Stop,300,2.9,80,"Chinese,Fast Food,Indian",Rohini,51
+362287,Rohini,Delhi,Excellent Dumpling House,300,2.9,80,"Fast Food,Chinese,Indian",Rohini,47
+362300,Rohini,Delhi,Ballu Bawarchi,300,2.9,80,"North Indian,Biryani,Mughlai,Tandoor",Rohini,50
+364144,Rajouri Garden,Delhi, Kishori Lal Paan,100,4.4,100,"Paan,Beverages,Desserts",Rajouri Garden,77
+366015,Rohini,Delhi,Jd Meals,200,3.7,20,"Indian,Thalis,Combo,Beverages",Rohini,48
+369174,Rajouri Garden,Delhi,Tamba,400,4,100,"North Indian,Mughlai,Biryani,Kebabs,Desserts",Najafgarh Rd,76
+369228,Paschim Vihar,Delhi,Brown Munde,300,4.3,100,"Chinese,Italian,Snacks,Fast Food",Paschim Vihar,53
+370359,Rajouri Garden,Delhi,Pa Pa Ya,800,4.1,100,"Japanese,Pan-Asian,Thai,Sushi,Chinese",Najafgarh Road Block-Z,76
+370370,Rohini,Delhi,Oye Chhotu,300,2.9,80,"Mughlai,North Indian,Tandoor",Rohini,47
+371595,Rohini,Delhi,Momo Shomo,300,4.2,100,"Asian,Chinese,Tibetan,North Eastern,Beverages,Fast Food,Street Food",Rohini,40
+371701,Rohini,Delhi,Atrangi Food Cafe,250,2.9,80,"Chinese,Continental,Italian,Pastas,Pizzas",Rohini,49
+372208,Rohini,Delhi,Moonmoon - Juicy Crustwiches,300,4.3,100,"Fast Food,American,Snacks,Beverages",Rohini,40
+372603,Ramesh Nagar,Delhi,The Dineroom,450,4.6,20,"Chinese,Indian,Salads,South Indian,Desserts",Club Road,73
+372612,Rohini,Delhi,Curry Mantra,400,2.9,80,"Chinese,Italian,Indian",Rohini,46
+373000,Ramesh Nagar,Delhi,Currchi,400,4.1,100,"Chinese,North Indian,Pastas",Punjabi Bagh,67
+374962,Rajouri Garden,Delhi,Mr Crust Bakers,400,4.5,100,"Bakery,Desserts",Rajouri Garden,67
+375997,Rohini,Delhi,Artinci - Indulge Guilt Free!,200,4.4,50,"Ice Cream,Healthy Food,Keto,Desserts,Snacks,Beverages,Bakery",Rohini,39
+376168,Rajouri Garden,Delhi,White Cub,200,2.9,80,Ice Cream,Rajouri Garden,78
+376436,Tagore Garden Extension,Delhi,Musafir By Imly,400,4,50,"Indian,Chinese,Italian",Rajouri Garden,73
+377857,Kirti Nagar,Delhi,Foodiz Dhaba,300,2.9,80,"Chinese,Indian",Kirti Nagar,73
+378321,Punjabi Bagh,Delhi,Shakespeare Cafe (Punjabi Bagh),400,2.9,80,"Indian,Tandoor,Chinese",Punjabi Bagh,75
+379518,Paschim Vihar,Delhi,Durga Dosa Corner,200,4.2,100,"South Indian,Chinese",Paschim Vihar,44
+379776,Nsp,Delhi,Hill Chillz 26,300,4.3,50,"Ice Cream,Beverages",Nsp,50
+380396,Punjabi Bagh,Delhi,Pranav Kabab,600,2.9,80,"Indian,Chinese,Mughlai,Biryani",Punjabi Bagh,71
+381336,Rohini,Delhi,Healthy Tree,350,4.1,100,"Beverages,Healthy Food,Salads",Rohini,46
+381671,Rohini,Delhi,Standard Ice Cream(Rohini Sector-6 Ayodhya Chowk Wale),150,4,50,"Street Food,Desserts,Beverages",Rohini,25
+383038,Nsp,Delhi,Pizzapastaburger Coin,200,3.7,50,"Pizzas,Fast Food",Nsp,62
+383084,Punjabi Bagh,Delhi,Nori,800,2.9,80,"Asian,Chinese,Burmese,Thai,Seafood",Punjabi Bagh,69
+385841,Paschim Vihar,Delhi,Kakas Food Point,300,4.6,20,"Chinese,Fast Food,North Indian",Paschim Vihar,57
+385870,Paschim Vihar,Delhi,Burger And Sandwich Karol Bagh Wale (Taal),500,2.9,80,Healthy Food,Paschim Vihar,57
+385872,Paschim Vihar,Delhi,Late Night Burger,500,2.9,80,Healthy Food,Paschim Vihar,56
+385874,Paschim Vihar,Delhi,Healthy Food,500,2.9,80,Healthy Food,Paschim Vihar,59
+385875,Paschim Vihar,Delhi,Loud Cloud,500,2.9,80,Healthy Food,Paschim Vihar,49
+385876,Paschim Vihar,Delhi,Late Night Sandwich,500,2.9,80,Healthy Food,Paschim Vihar,56
+386417,Punjabi Bagh,Delhi,Sticky Rice,1000,4.3,100,"Pan-Asian,Asian,Chinese,Japanese,Sushi,Thai,Seafood,Desserts",Punjabi Bagh,71
+387752,Rohini,Delhi,Amjad Delhi Darbaar,200,2.9,80,Indian,Mangolpuri,46
+387953,Punjabi Bagh,Delhi,Aioli Bistro,1000,4.2,100,"Italian,Continental,Pizzas,Salads,Pastas,Desserts",Punjabi Bagh,65
+389001,Rohini,Delhi,The House Of Chopsticks By Pind Balluchi,300,2.9,80,"North Indian,Chinese",Rohini,47
+390153,Rohini,Delhi,Nh1 Bowls - Highway To North,250,3.9,50,"North Indian,Biryani,Combo,Snacks",Rohini,38
+391098,Rohini,Delhi,Zaza 22 Spice Biryani,250,4,100,"North Indian,Biryani,Combo,Snacks",Rohini,38
+391855,Rohini,Delhi,Murg Express,300,2.9,80,North Indian,Rohini,57
+393591,Paschim Vihar,Delhi,Level 2 By Radisson Blu,1000,2.9,80,Desserts,Paschim Vihar,56
+393592,Paschim Vihar,Delhi,Indyaki By Radisson Blu,1000,2.9,80,Desserts,Paschim Vihar,58
+393593,Paschim Vihar,Delhi,Oro By Radisson Blu,1000,2.9,80,Desserts,Paschim Vihar,58
+393594,Paschim Vihar,Delhi,Tea Lounge By Radisson Blu,1000,2.9,80,Desserts,Paschim Vihar,56
+393595,Paschim Vihar,Delhi,Cupcakes By Radisson Blu,1000,2.9,80,Desserts,Paschim Vihar,61
+393761,Rohini,Delhi,Shiv Shankar Dhaba,170,4,100,"Chinese,Thalis,Snacks",Rohini,36
+397995,Rohini,Delhi,The Godfathers Cafe,350,2.9,80,"Fast Food,Beverages",Rohini,62
+399450,Nsp,Delhi,Village Pizza,200,2.9,80,Pizzas,Nsp,51
+399608,Rohini,Delhi,Parashar Foods,350,3.7,20,"Indian,Tandoor,Snacks,Sweets,North Indian",Rohini,34
+400823,Rohini,Delhi,Pao Ji Aamchi Mumbai Se,150,3.1,50,"Indian,Snacks,Street Food,Fast Food",Rohini,35
+402167,Rohini,Delhi,Dl Roll Bo55,200,2.9,80,"Fast Food,Snacks",Rohini,45
+402513,Punjabi Bagh,Delhi,Tandoori Kingdom,500,2.9,80,North Indian,Punjabi Bagh,69
+402809,Rajouri Garden,Delhi,Nomad Pizza- Traveller Series,700,4.2,50,"Pizzas,Beverages,Continental",Rajouri Garden,74
+402897,Rohini,Delhi,Yummy Bites,300,3.8,100,"Indian,Chinese",Rohini,52
+403655,Paschim Vihar,Delhi,Mehendiram Restaurant & Mocktail Bar,300,2.9,80,"Indian,Chinese,Tandoor",Paschim Vihar,52
+403663,Rohini,Delhi,Vhc Food Chain,300,3.9,50,"Chinese,North Indian,Snacks,Pastas,Combo,Beverages",Rohini,48
+404504,Nsp,Delhi,The Bhukkad Chowk,400,2.9,80,"Chinese,Beverages",Nsp,64
+404553,Rohini,Delhi,That Pizza Place,500,4,50,"Pizzas,Italian,Fast Food,Desserts,Continental,Mediterranean,American,Mexican,Indian,Combo,Beverages,Bakery,French,Sweets,European,Lebanese,Snacks",Rohini,36
+404690,Rohini,Delhi,The Tangdi Club,400,2.9,80,"Indian,Tandoor,Biryani,North Indian,Fast Food,Mughlai,Snacks,Kebabs",Rohini,50
+404885,Sector 7 Rohini,Delhi,Ya Ya Momo,300,4,100,"Snacks,Fast Food,Chinese",Nsp,39
+405296,Sector 7 Rohini,Delhi,Momo Shack,300,4.1,100,"Chinese,Fast Food",Nsp,44
+405532,Rohini,Delhi,Laale Di Chaap,350,2.9,80,North Indian,Rohini,44
+405728,Rohini,Delhi,Saffron Flavors,300,4,500,"North Indian,Biryani,Punjabi",Rohini,44
+406321,Rohini,Delhi,Snac Zilla,300,2.9,80,"Chinese,Snacks,Beverages",Rohini,47
+407248,Rohini,Delhi,Puratan Restaurant,1000,2.9,80,"Chinese,North Indian",Rohini,57
+408310,Rohini,Delhi,Combo Express,200,2.9,80,"Snacks,Beverages",Rohini,44
+408629,Rohini,Delhi,Desi Matki,300,2.9,80,"North Indian,Snacks",Rohini,48
+408661,Rohini,Delhi,The Kathi Rolls Point,390,2.9,80,"Snacks,Fast Food",Rohini,72
+408906,Rohini,Delhi,Love Chinese Corner,300,2.9,80,"North Indian,Fast Food,Chinese",Rohini,55
+408920,Rajouri Garden,Delhi,Pizza Guyz By Hudson Chopsticks,700,4.5,20,Pizzas,Rajouri Garden,79
+409321,Pitampura,Delhi,Lords Of Shawarma (Pitampura),200,3.1,100,"Lebanese,Chinese",Pitampura,51
+409646,Janakpuri,Delhi,Gourmet Tandoor,150,2.9,80,"Tandoor,Indian,Chinese,Continental",Janakpuri,79
+410117,Rajouri Garden,Delhi,Spicy Crave,200,4,50,Chinese,Rajouri Garden,74
+410265,Rohini,Delhi,Wow! Momo,300,3.8,20,"Tibetan,Fast Food,Healthy Food,Asian,Chinese,Snacks,Continental,Desserts,Beverages",Rohini Wk,40
+410266,Rohini,Delhi,Wow! China,400,3.5,20,"Tibetan,Fast Food,Chinese,Asian,Snacks,Continental,Desserts,Beverages",Rohini Wk,39
+410548,Paschim Vihar,Delhi,Tandoori Chamcha,300,3.8,100,"North Indian,Chinese,Mughlai,Desserts,Tandoor",Paschim Vihar,53
+410869,Pitampura,Delhi,Madhushala,600,2.9,80,"Indian,Chinese",Pitampura,60
+411592,Rohini,Delhi,Chotiwala -The Mouth Watering Food,300,2.9,80,"North Indian,Biryani",Rohini,61
+411660,Rohini,Delhi,Khan Chacha Hyderabadi,300,2.9,80,North Indian,Rohini,61
+411770,Paschim Vihar,Delhi,Chines Hot Hub,199,2.9,80,Chinese,Paschim Vihar,52
+411857,Rohini,Delhi,Shahenshah Taste Me Baap,300,2.9,80,North Indian,Rohini,62
+411871,Rohini,Delhi,Bemisal Dharmender Hotel,300,2.9,80,"North Indian,Chinese",Rohini,55
+411874,Rohini,Delhi,Express Sanjha Chulha Pure Veg,300,2.9,80,"Indian,Chinese",Rohini,63
+411882,Rohini,Delhi,Mdh Masala Legendry Since 1960,300,2.9,80,"Indian,Snacks",Rohini,60
+412151,Punjabi Bagh,Delhi,Chaubara,250,4.4,20,"Fast Food,Snacks,Beverages",Punjabi Bagh,71
+412522,Rohini,Delhi,Sanjha Chulha Since 1979,300,2.9,80,North Indian,Rohini,55
+412889,Rohini,Delhi,Moolchand Chur Chur Naan & Paratha Since 1979,300,2.9,80,North Indian,Rohini,62
+413816,Rohini,Delhi,Cheesecake & Co,350,4.3,50,Bakery,Nsp,40
+414443,Rohini,Delhi,The Kababs & Curry,300,2.9,80,"Chinese,North Indian",Rohini,56
+415979,Rajouri Garden,Delhi,Hamiz Laziz Foods,350,4.5,50,"Indian,Mughlai,Biryani,Tandoor,Kebabs",Rajouri Garden,64
+416015,Wazirpur Industrial Area,Delhi,Clay-1 Grill,400,4.1,100,"Indian,Chinese,Mughlai,Seafood",Wazirpur Industrial Area,77
+416557,Pitampara,Delhi,Chunmun'S Snacks & More,250,2.9,80,"North Indian,Fast Food,Snacks",Nsp,45
+416830,Rajouri Garden Extension,Delhi,Louis Burger,600,4.2,500,"American,Fast Food",Rajouri Garden Extension,74
+417692,Paschim Vihar,Delhi,Dil Se Foodie Amul Butter Wale Burger,500,2.9,80,"Continental,American,Desserts,Fast Food,Mexican,Beverages,Punjabi",Paschim Vihar,57
+418353,Sector -15,Delhi,Mummys Kitchen,500,2.9,80,Biryani,Sector -15,61
+418585,Rohini,Delhi,Chicken Khurana,300,2.9,80,"Indian,Desserts,Snacks",Rohini,48
+420727,Rani Bagh,Delhi,Kaleva,300,4.2,100,"Indian,Sweets,Street Food",Nsp,48
+422325,Rohini,Delhi,The Sugar Free Keto Kafe - By Artinci,200,4.8,20,"Healthy Food,Keto,Desserts,Ice Cream,Snacks,Beverages,Bakery",Rohini,46
+422979,Punjabi Bagh,Delhi,Kalaunji By Sticky Rice,800,4.4,50,"North Indian,Mughlai,Biryani,Desserts,Indian,Kebabs",Punjabi Bagh,72
+424423,Nsp,Delhi,Bansal Sweet Shop,300,4.4,50,"Sweets,Snacks",Nsp,46
+426072,Pitampura,Delhi,The Yellow Bowl,200,4.4,20,"Chinese,Italian",Nsp,48
+427572,Rohini,Delhi,The Golden Yolk,200,2.9,80,"Indian,Snacks",Rohini,51
+428979,Rohini,Delhi,Dine House,500,2.9,80,"Italian,Chinese,Tandoor,North Indian",Rohini,38
+429200,Rohini,Delhi,Chitrakut,400,4.2,100,"Biryani,North Indian,Chinese,Thalis",Rohini,33
+429697,Paschim Vihar,Delhi,M2M Momos,200,2.9,80,North Indian,Paschim Vihar,59
+429772,Paschim Vihar,Delhi,Sam Special All Chinese Food,300,2.9,80,"Chinese,Fast Food",Paschim Vihar,57
+430484,Rohini,Delhi,Karims Rohini,700,2.9,80,"Indian,North Indian",Rohini,45
+431797,Nsp,Delhi,Kocktails & Kurries,400,2.9,80,"Indian,Asian,Italian,Fast Food",Nsp,46
+431901,Rohini,Delhi,Just 99,200,2.9,80,"Indian,Combo,Thalis",Rohini,38
+432396,Rohini,Delhi,Bansiwala,300,4.2,50,"North Indian,Snacks,Chinese,Bakery",Rohini,30
+432496,Rohini,Delhi,Biryani Badshah,350,4.4,50,"Hyderabadi,South Indian,North Indian,Biryani,Andhra,Mughlai",Rohini,34
+432557,Rohini,Delhi,Bikkgane Biryani,350,4.4,100,"Hyderabadi,South Indian,North Indian,Biryani,Andhra,Mughlai",Rohini,34
+432780,Rohini,Delhi,Paratha Box - 2X Filling,250,4.4,20,"North Indian,Punjabi,Indian,Home Food,Combo,Beverages",Sector 7,40
+433172,Rohini,Delhi,Filhall The Best Multi Cuisine Kitchen,200,2.9,80,"Indian,Chinese,Continental",Rohini,48
+433587,Paschim Vihar,Delhi,Ghee And Turmeric,500,4.1,50,"North Indian,Tandoor,Punjabi,Beverages,Desserts,Mughlai",Paschim Vihar,55
+434378,Kirti Nagar,Delhi,Desi Mirch Masala,150,2.9,80,"Chinese,Fast Food,Thalis",Kirti Nagar,72
+434781,Rohini,Delhi,Taste Of Nawaabs,650,2.9,80,"Biryani,Indian",Rohini,53
+435952,Moti Nagar,Delhi,Chattore,150,2.9,80,"Chinese,Tandoor",Kirti Nagar,77
+436260,Rohini,Delhi,Taabartod Thali,200,2.9,80,"North Indian,Thalis,Tandoor,Desserts",Rohini,55
+437330,Rohini,Delhi,Yum-Shum Chinese,300,2.9,80,"Chinese,Snacks",Rohini,57
+437905,Rajouri Garden,Delhi,Wok On Fire,400,4.7,50,"Chinese,Thai,Asian",Rajouri Garden,76
+437955,Janakpuri,Delhi,The Burger Company,300,2.9,80,"Fast Food,Beverages",Janakpuri,78
+438252,Rohini Sector 7,Delhi,Protein Singh,250,2.9,80,"Fast Food,Salads,Beverages",Rohini Sector 7,47
+438453,Rohini,Delhi,Patiala Flavours,500,2.9,80,Indian,Rohini,45
+438825,Paschim Vihar,Delhi,Moms Kitchen,250,2.9,80,"Indian,Seafood",Paschim Vihar,56
+438945,Nsp,Delhi,Nirmal Vada Pav,250,2.9,80,"Street Food,Fast Food",Nsp,53
+439539,Ashok Vihar,Delhi,Mom'S Kitchen,249,2.9,80,Indian,Ashok Vihar,69
+439844,Rohini,Delhi,Kbc(Kon Banega Chatora),500,2.9,80,"Chinese,Indian,Continental,Biryani",Rohini,46
+439964,Punjabi Bagh,Delhi,Indi Fork,1000,2.9,80,North Indian,Punjabi Bagh,70
+440426,Ashok Vihar,Delhi,Darbari Swad,400,2.9,80,"Indian,Tandoor,Biryani",Ashok Vihar,74
+441066,Paschim Vihar,Delhi,Singh N Ching,400,2.9,80,"North Indian,Tandoor,Biryani",Paschim Vihar,51
+441240,Rohini,Delhi,Delhi Se,400,2.9,80,"Chinese,North Indian,Tandoor,Combo,Biryani,Beverages",Rohini,44
+441707,Rohini,Delhi,Kohinoor Foods & Snacks,250,2.9,80,"North Indian,Snacks,Beverages",Rohini,37
+441848,Rohini,Delhi,Fat Wrap / Fat Roll - Giant Juicy And Stuffed!,400,2.9,80,"Fast Food,Snacks,Beverages,Desserts",Rohini,40
+443045,Rohini,Delhi,Da Pizza Factory,300,2.9,80,Italian,Rohini,35
+443086,Rohini,Delhi,Nirula'S,500,4.2,20,"Ice Cream,Desserts,Beverages",Rohini,39
+443504,South West,Delhi,Eatfit,270,4.3,50,"Healthy Food,Pizzas,North Indian,Thalis,Biryani",Najafgarh Road,71
+444780,Rohini,Delhi,Theobroma,850,4.4,100,"Desserts,Bakery,Beverages",Rohini,33
+445802,Rohini,Delhi,Murthalwala,200,4.2,20,"Punjabi,North Indian,Indian",Rohini,37
+445821,Rohini,Delhi,Mr Paratha,200,3.9,20,"Punjabi,North Indian,Indian",Rohini,37
+445826,Rohini,Delhi,Lala Pakode Wala,200,4.4,20,"Snacks,Fast Food,Punjabi",Rohini,37
+445830,Rohini,Delhi,Haandiwala,200,2.9,80,"Punjabi,North Indian,Indian",Rohini,37
+445835,Rohini,Delhi,Thaaliwalaa,200,4,20,"Punjabi,North Indian,Indian,Thalis",Rohini,36
+445859,Rohini,Delhi,Wat A Paratha,200,2.9,80,"Punjabi,North Indian,Indian",Rohini,37
+445893,Rohini,Delhi,Chinese By Heart,200,4.1,20,"Chinese,Asian,Snacks,Fast Food",Rohini,37
+445907,Rohini,Delhi,The Hungry Street,200,2.9,80,"Continental,Snacks,Fast Food",Rohini,46
+445910,Rohini,Delhi,The Mealbox,200,2.9,80,"Thalis,Punjabi,North Indian,Indian",Rohini,38
+445927,Rohini,Delhi,Mr Naan & Mrs Curry,200,2.9,80,"Punjabi,North Indian,Indian",Rohini,44
+446812,Vardhman Premium Mall,Delhi,Biryani By Kilo,700,4.8,20,"Biryani,Mughlai,Kebabs,North Indian,Hyderabadi,Lucknowi,Andhra,South Indian",Rohini,53
+448766,Paschim Vihar,Delhi,Uncle Ji Ka Kitchen,300,2.9,80,"North Indian,Thalis",Paschim Vihar,79
+449740,Rohini,Delhi,Shahi Chiken Corner,350,2.9,80,Indian,Rohini,60
+450002,Sainik Vihar Pritampura,Delhi,Tandoori Junction,350,2.9,80,"North Indian,Tandoor,Thalis,Beverages",Rohini,48
+450067,Rohini,Delhi,The Special Cheeseyest Pizza,200,2.9,80,"Pizzas,Fast Food",Rohini,60
+450484,Rohini,Delhi,The Special Roll,200,2.9,80,Snacks,Rohini,45
+450510,Rohini,Delhi,Pradeep Egg Center,500,2.9,80,Snacks,Rohini,47
+451508,Rohini,Delhi,Dilli Meri Jaan,350,2.9,80,"Chinese,Indian",Rohini,45
+451592,Nsp,Delhi,The Tribbiani'S Pizzeria,450,2.9,80,"Pizzas,Italian,Beverages",Nsp,59
+451978,Rohini,Delhi,Hyderabadi Biryani,350,2.9,80,"Biryani,Indian,Chinese,Beverages",Rohini,47
+451989,Rohini,Delhi,Hyderabadi Handi Biryani,350,2.9,80,North Indian,Rohini,40
+452723,Rohini,Delhi,Lajawab Biryani Corner,350,2.9,80,"Biryani,Chinese",Rohini,39
+453947,Rajouri Garden,Delhi,Urban Food House,150,2.9,80,"Chinese,Continental,Fast Food",Rajouri Garden,74
+454303,Rohini,Delhi,Lazeez Handi Biryani,350,2.9,80,"Biryani,Chinese,Beverages",Rohini,39
+454311,Rohini,Delhi,Handi Biryani Kingdom,350,2.9,80,"Biryani,Chinese,Beverages",Rohini,39
+454313,Rohini,Delhi,Handi Biryani Wala,350,2.9,80,"Biryani,Chinese,Beverages",Rohini,39
+454321,Rohini,Delhi,Handi Biryani Empire,350,2.9,80,"Biryani,Chinese,Beverages",Rohini,39
+454348,Rohini,Delhi,Handi Biryani,350,2.9,80,"Biryani,Chinese,Beverages",Rohini,39
+455443,Keshav Puram,Delhi,Mama Chicken,450,2.9,80,"Chinese,North Indian,Pastas,Snacks,Mughlai",Keshav Puram,72
+456230,Nsp,Delhi,China Gate Fast Food,250,2.9,80,Chinese,Nsp,63
+456823,Begampur,Delhi,Pehalwan Ji Delhi 6 Chicken Restaurant,300,2.9,80,"North Indian,Seafood,Biryani",Begampur,66
+457542,Rohini,Delhi,Shahi Tandoor,300,2.9,80,"Tandoor,Indian",Rohini,47
+457568,Ashok Vihar,Delhi,Daksh Rasoi,500,2.9,80,"North Indian,Thalis,Combo",Ashok Vihar,75
+458258,Nsp,Delhi,Fat Tiger,300,5,20,"Pizzas,Chinese,Snacks,Beverages,American",Nsp,73
+458404,Rohini,Delhi,Tandoori Bites,500,2.9,80,"Indian,North Indian,Fast Food",Rohini,58
+458570,Rohini,Delhi,Kitchen Queen,200,2.9,80,"Indian,Combo,Beverages",Rohini,46
+459564,Rohini,Delhi,Pan & Grill,200,2.9,80,Snacks,Rohini,55
+459832,Nsp,Delhi,Chef Nation,300,2.9,80,"Chinese,Beverages",Nsp,50
+460316,Begampur,Delhi,Yellow Berries,250,2.9,80,"North Indian,Bengali",Begampur,63
+461036,Rohini,Delhi,Punjab Chicken Corner,300,2.9,80,"Punjabi,North Indian,Tandoor,Chinese",Rohini,34
+461103,Rohini,Delhi,Currynama By Seven Seas,800,2.9,80,"North Indian,Kebabs,Desserts",Rohini,45
+462444,Rohini,Delhi,Mealizer,300,2.9,80,Chinese,Rohini,36
+462777,Rohini,Delhi,Bar Of Burger,300,2.9,80,"American,Beverages",Rohini,40
+9753,Pitam Pura,Delhi,Sagar Ratna,450,4.1,500,"South Indian,North Indian,Chinese",Near Pitampura Metro Station,46
+10241,Sector 15 Rohini,Delhi,South Indian Corner,250,4,100,"South Indian,Fast Food",Sector 15,49
+10254,Rohini,Delhi,Pasta Hut,400,4.2,20,"Pastas,Pizzas,Beverages,Snacks,Chinese",Mangalam Place Rohini Sector 3,38
+10301,Sector 9 Rohini,Delhi,Punjabi Rasoi,400,4.2,500,"North Indian,Chinese,Fast Food,South Indian,Italian,Desserts",Opposite Metro Pillar 408 Sector 7,34
+10325,Sector 3 Rohini,Delhi,Pizzallo Hot,400,3,20,"Italian,Pizzas",Rohini Sector 3,27
+14413,Rohini,Delhi,Keventers - Milkshakes And Desserts,300,4.4,100,"Beverages,Ice Cream,Desserts,Healthy Food",Unity One Mall,35
+18483,Shalimar Bagh,Delhi,Mitthu Tikki Wala,300,4.1,100,"Street Food,Chinese",Bw Block Shalimar Bagh,60
+18493,Sector 9 Rohini,Delhi,Apni Rasoi (Sector 9 Dc Chowk Rohini),250,4,1000,North Indian,Dc Chowk,34
+20611,Sector 7 Rohini,Delhi,Giani'S,200,4.3,100,"Ice Cream,Desserts,Beverages,Bakery",Rohini Sector 7 Sector 9 Main Road,33
+22908,Rohini,Delhi,Food 2 Go,200,3.9,20,"North Indian,Chinese",Rohini,50
+23590,Shalimar Bagh,Delhi,Fingerlickerz Bombaywala (Shalimar Bagh),150,4.2,100,"Street Food,Fast Food,Maharashtrian,Indian,Snacks",Bharat Nagar,63
+26703,Moti Nagar,Delhi,Shudh Vaishno Hotel (Karam Pura),400,4.3,100,Indian,New Moti Nagar,63
+28967,Rohini,Delhi,Dev China Town,300,3.9,20,"Chinese,Fast Food",Rohini,48
+29221,Paschim Vihar,Delhi,Shahi Naan Wala,250,4.4,50,"North Indian,Fast Food,Tandoor,Combo,Snacks",Pashchim Vihar,50
+29576,Rohini,Delhi,R.P.W Pizza,350,3.5,50,Italian,Rohini Sector 9,38
+32550,Shalimar Bagh,Delhi,Spice Sea,600,4.1,100,"North Indian,Chinese",Shalimar Bagh,66
+33168,Sector 7 Rohini,Delhi,My Shop Sector-7,300,4.1,100,"Fast Food,Italian,American,Beverages",Opposite Kapil Dental Clinic,31
+34074,Peeragarhi Camp,Delhi,Kapoor Dhaba,200,3.6,20,North Indian,Near Paschim Vihar West Metro Station,50
+34387,Rohini,Delhi,Havmor Havfunn Ice Cream,200,4.6,100,"Ice Cream,Desserts",Prashant Vihar,38
+35589,Sector 7 Rohini,Delhi,Moti Mahal Delux Rohini,500,4.2,100,"North Indian,Chinese,Thalis,Combo",Sector 7,34
+36900,Sector 4 Rohini,Delhi,Wah Bhai Wah,200,3.8,500,"North Indian,Chinese,Tandoor,Beverages",Sector 4,27
+37698,Tagore Garden Extension,Delhi,Nathu'S Sweets,200,3.7,1000,"Sweets,Chinese,Desserts,North Indian,South Indian,Italian,Street Food,Beverages,Indian,Fast Food",Rajouri Garden,73
+38428,Rohini,Delhi,Maha Laxmi Dhaba,300,4.1,20,North Indian,Rohini Sector 11,45
+39223,Sector 7 Rohini,Delhi,Waffle King,300,4.2,100,"Desserts,Continental,Ice Cream,Beverages",Rohini Sec 8,35
+40329,Sector 7 Rohini,Delhi,Shree Rathnam,600,4.2,500,"South Indian,North Indian,Chinese",Rohini,37
+41307,Budh Vihar,Delhi,Btw,200,3.7,100,"Street Food,North Indian",Budh Vihar,39
+42365,Sector 5 Rohini,Delhi,Zaffran,400,2.9,80,North Indian,Sector 5 Rohini,39
+43380,Vikaspuri,Delhi,Vanakkam Madras Cafe,150,4.2,100,"South Indian,Chinese",Dda Market,77
+43409,Delhi,Delhi,Madras Dosa & Chinese Corner (Shalimar Bagh),300,3.9,1000,"South Indian,Chinese,Italian,Beverages,Snacks",Al Market Shalimar Bagh,63
+45691,Prashant Vihar Rohini,Delhi,Hot Spot Mini Shop,300,3.8,100,"Italian,Beverages,Fast Food,Snacks",Prashant Vihar,48
+46868,Sector 2 Rohini,Delhi,Kushal Bhojnalaya,200,4.2,100,North Indian,Rohini,29
+48834,Prashant Vihar Rohini,Delhi,Vaishno Rasoi,300,3.9,100,North Indian,Ground Floor Pvr Fun City Mall,48
+51056,Pitam Pura,Delhi,Singhs Vada Pav,150,4.2,100,"Street Food,Fast Food,Snacks,North Indian,Beverages",Opposite M2K Cinema,49
+52262,Rohini,Delhi,Kutumb,600,2.9,80,"Chinese,North Indian",Metro Park,46
+52577,Secot 24Rohini,Delhi,New Punjabi Rasoi,300,3.7,500,North Indian,Sector 24,52
+55847,Pitam Pura,Delhi,Aapki Rasoi,200,3.3,100,"North Indian,Tandoor,Indian,Punjabi",Vardhman Market,35
+57956,Rohini,Delhi,Madras Cafe,200,3.9,100,South Indian,Rohini,50
+57964,Rohini,Delhi,Nivetha Dosa Corner,150,4.1,100,South Indian,Rohini,31
+60965,Paschim Vihar,Delhi,New Durga Dosa Corner,150,4,100,"South Indian,Snacks,Fast Food,Indian",Punjabi Bagh,51
+61249,Rohini,Delhi,Jain Kulfi (Vikas Jain'S),100,4.1,20,Desserts,Sector-16,51
+64079,Pitam Pura,Delhi,Punjabi Zaika,350,4.3,100,North Indian,Rani Bagh,52
+67259,Sector 7 Rohini,Delhi,Gulshan Di Chaap,200,3.9,100,"North Indian,Mughlai",Sector-7,27
+69120,Rohini,Delhi,Giani,350,4.2,100,Ice Cream,North Ex Mall,36
+73680,Sector 7 Rohini,Delhi,Southy,200,3.6,500,"South Indian,Snacks,Beverages",Sector-7,37
+77567,Paschim Vihar,Delhi,Yamu'S Panchayat,400,4.5,50,"North Indian,Desserts",Paschim Vihar,50
+79995,Budh Vihar,Delhi,Victory Pizza,400,2.9,80,North Indian,Budh Vihar Phase-2,50
+82094,Sector 10 Rohini,Delhi,Dine House By Eleven Course,1650,2.9,80,"Chinese,North Indian,Italian,Mexican",Pitampura,53
+84158,Paschim Vihar,Delhi,Lakhan Pan,100,4.6,50,Juices,Paschim Vihar,47
+85113,Paschim Vihar,Delhi,Sharma Shud Vashno Dhaba,200,4.2,20,North Indian,Paschim Vihar,50
+94415,Ramesh Nagar,Delhi,Choolah (Pure Veg),200,3.6,20,"North Indian,Mughlai,Punjabi",Club Road Market,73
+95947,Pitam Pura,Delhi,Dosa Corner,250,4.1,50,"Chinese,South Indian",Nsp,56
+99886,Rohini,Delhi,New Punjabi Dhaba,300,3.3,50,North Indian,Rohini,47
+104317,Krishan Vihar,Delhi,Apni Rasoi,300,4,100,"North Indian,Chinese,Tandoor,Snacks,Pastas",Budh Vihar,35
+104769,Tagore Garden Extension,Delhi,Tite Da Dhaba,200,4.1,1000,North Indian,Ragubir Nagarshivaji College Road,64
+105418,Nangloi,Delhi,Banke Bihari Restaurant,300,3.6,100,"Street Food,Desserts",Nangloi,54
+120100,Paschim Vihar,Delhi,Sgf - Spice Grill Flame (Paschim Vihar),250,3.7,100,"North Indian,Fast Food,Chinese",Paschim Vihar,54
+121913,Rohini,Delhi,Vinayak Restaurant,200,2.9,80,Chinese,Rohini,48
+124585,Sector 15 Rohini,Delhi,Gurdass Man Dhaba,300,3.9,100,Indian,Rohini,49
+125137,Sector 14 Rohini,Delhi,The Waffle Co.,200,4.2,100,"Ice Cream,Desserts,Beverages",Prashant Vihar,49
+126017,Rohini,Delhi,Dev Kitchen,200,2.9,80,"North Indian,Chinese,Continental",Sector-9 Rohini,50
+128078,Paschim Vihar,Delhi,New Durga Corner,150,4.1,500,"South Indian,Chinese",Dda Market Paschim Vihar,40
+141986,Tilak Nagar,Delhi,Haldiram'S (Tilak Nagar),450,4.4,1000,"Sweets,Desserts,North Indian",Tilak Nagar,76
+142909,Shalimar Bagh,Delhi,Samose Wale,150,4.1,20,Snacks,Shalimar Bagh,70
+144725,Kg-Iii,Delhi,Aggarwal Standard Sweets,250,3.8,100,"Sweets,Snacks",Janakpuri,72
+155882,Sector 9 Rohini,Delhi,Shri Balaji Rasoi,250,3.9,50,North Indian,Laxmi Nagar,37
+159496,Rohini,Delhi,S.P.W Pizza,200,2.9,80,"Chinese,Fast Food",Sector 8A,36
+160853,Paschim Vihar,Delhi,Sunny Fruit Juice And Shakes,300,2.9,80,Beverages,Paschim Vihar,50
+160883,Budh Vihar,Delhi,Pandit Ji Ka Dhaba,200,3.2,20,North Indian,Budh Vihar,38
+161570,Pocket C-11 Sector 5 Rohini,Delhi,Urban Bawarchi,300,2.9,80,North Indian,Pocket C-11 Sector 5 Rohini,39
+166974,Rohini,Delhi,Abbys -The Food Hub,300,2.9,80,"North Indian,Fast Food,Beverages",Sector-11,49
+174954,Sector 8 Rohini,Delhi,Standard Rabri Faluda And Shakes,150,4.3,100,Desserts,Sector-8 Pradeep Bhatia Marg,30
+175026,Sector 6 Rohini,Delhi,Pawan Vaishno Dhaba,150,3.7,100,North Indian,Mahindra Park Pitampura,27
+176243,Paschim Vihar,Delhi,The Cake Mistri,450,2.9,80,"Snacks,Indian",Bhera Enclave Paschim Vihar New Delhi,57
+177925,Shalimar Bagh,Delhi,Shravana Cafe,300,3.6,50,"South Indian,Chinese",Shlaimar Bagh,68
+193493,Sector 10 Rohini,Delhi,Haldiram'S,350,4.3,500,"Sweets,North Indian",Rohini,38
+203251,Tagore Garden Extension,Delhi,Cake Factory,500,2.9,80,Bakery,Tagore Garden,72
+211283,Tagore Garden Extension,Delhi,Cake 24Ghante,500,2.9,80,Bakery,Tagore Garden Extension,70
+216894,Tri Nagar,Delhi,M.K. Chinese Food,450,2.9,80,Chinese,Ashok Vihar,72
+220162,Rohini,Delhi,The Pizza Point,250,2.9,80,"Chinese,Pastas,Pizzas",Pocket A Sector 1,33
+225792,Sector 1 Rohini,Delhi,Cake Studio-100% Veg,99,3.8,100,"Bakery,Chinese,Snacks,Desserts",Rohini,28
+227235,Sector 8 Rohini,Delhi,Fruitarian - Fruit Salads,200,4.2,100,"Healthy Food,Salads,Ice Cream,Beverages,Juices,Navratri Special,North Indian,Snacks",Sector 8C,45
+229687,Rohini,Delhi,The Crispy Bites,400,3.9,50,Fast Food,Rohini,52
+233108,Rohini,Delhi,Vaishno Punjabi Dhaba,300,4.5,50,North Indian,Sector-8,31
+237691,Rohini,Delhi,Bablu Best Bakers,250,3.5,100,"Bakery,Desserts",Rohini,30
+240497,Budh Vihar,Delhi,Pandit Ji Ke Paranthe,300,3.3,50,Indian,Budh Vihar Phase 1,46
+249968,Sector 11 Rohini,Delhi,Dhruv'S Kitchen,250,2.9,80,Indian,Rohini,58
+252614,Paschim Vihar,Delhi,Nic Natural Ice Creams,120,4.5,100,"Ice Cream,Desserts",Paschim Vihar,35
+253424,Prashant Vihar Rohini,Delhi,Spice N Curry,300,3.9,100,"Chinese,North Indian",Sec-14,54
+258189,Rohini,Delhi,Great Indian Khichdi,200,4.3,100,"Indian,Home Food,Healthy Food,Snacks",Sector 7,33
+260510,Pitam Pura,Delhi,Kwality Walls Frozen Dessert & Ice Cream Shop,100,4.6,500,"Desserts,Ice Cream",Nsp,29
+263572,Rohini,Delhi,Pure Veg Meals By Lunchbox,200,2.9,80,"North Indian,Desserts,Biryani",Sector 8,37
+267206,Rohini,Delhi,Super India Restaurant,300,2.9,80,North Indian,Prashant Vihar Rohini Sector 14,56
+279826,Paschim Vihar,Delhi,Shudh Vaishno Shanker Dhaba,300,4.2,100,North Indian,Paschim Vihar,48
+300315,Rohini,Delhi,Fresh Juice And Shakes,200,2.9,80,Juices,Rohini,38
+314426,Rohini,Delhi,Natural Ice Cream,150,4.4,50,Ice Cream,Sector 8,35
+316632,Rohini,Delhi,Saravana South Indian Cafe,150,3.9,20,"South Indian,Chinese",Rohini,38
+321967,Rohini,Delhi,Cake.Com,250,2.9,80,"Desserts,Bakery",Rohini,37
+322309,Rohini,Delhi,Kayansh Foods,250,2.9,80,"North Indian,Thalis,Combo",Rohini,40
+337668,Tagore Garden Extension,Delhi,Cake World,300,2.9,80,"Desserts,Snacks,Continental",Rajouri Garden,74
+338103,Rohini,Delhi,Shree Vaishno Rasoi,250,4.3,20,"Tandoor,Chinese,Biryani",Rohini,50
+340197,Tagore Garden Extension,Delhi,Murthal Xpress,250,3.8,100,"North Indian,Chaat,Thalis,Tandoor,Indian,Desserts",Rajouri Garden,74
+341033,Rithala Rohini,Delhi,Bakingo,300,4.3,500,"Bakery,Desserts,Beverages,Snacks",Rohini,38
+353098,Rohini,Delhi,Cuoco,350,2.9,80,"Continental,Beverages,Italian,Fast Food",Rohini,55
+355352,Paschim Vihar,Delhi,Grameen Kulfi,120,4.3,20,"Ice Cream,Desserts",Paschim Vihar,34
+356626,Rohini,Delhi,Chaap Kingdom,300,4.2,20,Indian,Rohini,40
+357948,Pitam Pura,Delhi,The Pizza Club,100,2.9,80,"Street Food,Chinese,Pizzas,Beverages",Nsp,55
+363962,Pitam Pura,Delhi,Purple Forest.,300,2.9,80,"Bakery,Desserts",Nsp,61
+367659,Rohini,Delhi,The Brooklyn Creamery - Healthy Ice Cream,200,4.2,20,"Desserts,Ice Cream,Healthy Food",Rohini Rk,36
+369130,Tagore Garden Extension,Delhi,Keshav Bakery,500,2.9,80,Bakery,Rajouri Garden,69
+369475,Rohini,Delhi,Baskin Robbins,250,3.8,20,"Desserts,Ice Cream",Rohini Rk,38
+370908,Nsp,Delhi,Gourmet Ice Cream Cakes By Baskin Robbins,300,2.9,80,"Desserts,Ice Cream,Bakery",Rani Bagh Pitampura,58
+371781,Rohini,Delhi,Keventers Ice Creamery,300,4.6,20,"Ice Cream,Desserts",Unity One Rohini Delhi,33
+371878,Rohini,Delhi,Haunted Kitchen,150,2.9,80,"Indian,Pizzas,Biryani,Beverages",Rohini,36
+378401,Paschim Vihar,Delhi,Sunny Bakery,400,3.9,20,"Bakery,Desserts",Paschim Vihar,57
+381476,Nsp,Delhi,Kuremal Kulfi,200,2.9,80,"Desserts,Indian",Nsp,46
+388268,Vikaspuri,Delhi,Aggarwal Sweets,200,3.8,100,"Snacks,Desserts",Janakpuri,74
+391571,Rohini,Delhi,The Paratha Company,200,3.4,20,North Indian,Rohini,47
+391698,Rohini,Delhi,Quick Tasty Bites,150,2.9,80,"Indian,Chinese,Pastas,Fast Food,Snacks",Rohini,39
+397022,Rajouri Garden,Delhi,Hira Lal Paan,200,4.3,50,"Paan,Beverages,Waffle",Rajouri Garden,74
+397744,Nsp,Delhi,Modern Caterers,300,4.2,1000,"North Indian,Chinese,Snacks,Beverages,Punjabi",Nsp,46
+397954,Rohini,Delhi,Cake All Time,200,2.9,80,"Bakery,Cafe",Rohini,56
+398030,Rajouri Garden,Delhi,Radha Swami Chaap Wala,300,2.9,80,"North Indian,Chinese,Tandoor",Rajouri Garden,76
+400777,Rohini,Delhi,Tummy Full,150,2.9,80,Snacks,Rohini,30
+404496,Prashant Vihar,Delhi,Veer Ji Malai Chaap Wale  Prashant Vihar,200,3.6,100,"Indian,Tandoor",Rohini,47
+404781,Paschim Vihar,Delhi,Sayna Restaurant,150,2.9,80,North Indian,Paschim Vihar,65
+409486,Rohini,Delhi,Aura Bakers,300,2.9,80,"Bakery,Indian,Chinese,Pastas,Snacks",Rohini,36
+415742,Rohini,Delhi,Dhaam Kitchen,300,2.9,80,"Indian,North Indian,Fast Food",Rohini,47
+417308,Rajouri Garden,Delhi,Amritsari Express,200,2.9,80,North Indian,Rajouri Garden,78
+417454,Sri Nagar,Delhi,Calcutta Mithai,200,4.2,50,"Chaat,Sweets",Nsp,57
+424125,Sector -6,Delhi,Radhey Shyam Ki Rasoi,300,2.9,80,"North Indian,Chinese,Snacks,Thalis",Rohini,33
+425092,Rohini,Delhi,Hariram Sweets,200,3.7,20,Indian,Rohini,47
+425478,Rohini,Delhi,Pasta Rasta.Com,200,2.9,80,"Italian,Chinese,Fast Food,Beverages",Rohini,49
+427388,Rohini,Delhi,Eat Thrill Zone,300,4.3,20,"Bakery,Tandoor,Fast Food,Chinese,Continental",Rohini,37
+429308,Ashok Vihar,Delhi,Quickey Snacks Corner,200,2.9,80,"Chinese,Snacks",Ashok Vihar,70
+430805,Rohini,Delhi,Sizzling Grillz,300,2.9,80,Indian,Rohini,62
+437870,Rohini,Delhi,Foodie Delight,350,2.9,80,"Indian,Chinese,Combo",Rohini,55
+438487,Nsp,Delhi,Wedesi,150,2.9,80,"North Indian,Indian",Nsp,49
+441531,Rohini,Delhi,Chulha Chowka,250,2.9,80,"Chinese,North Indian,Tandoor",Rohini,67
+444268,Rohini,Delhi,The Real Spicy,200,2.9,80,"Indian,Fast Food,Bakery,Pizzas",Rohini,38
+452010,Rohini,Delhi,Silver Apple,200,2.9,80,"Chaat,Indian,Beverages",Rohini,60
+454028,Rajouri Garden,Delhi,Delicious Food,150,2.9,80,"Fast Food,Chinese",Rajouri Garden,68
+456504,Pitampura,Delhi,The Blue Plate,400,2.9,80,"Chinese,North Indian,Biryani",Pitampura,49
+457951,Kirti Nagar,Delhi,Sindhi Namkeen & More,200,2.9,80,"Indian,Gujarati",Kirti Nagar,68
+461141,Nsp,Delhi,New Oye Punjabi,350,2.9,80,"Punjabi,North Indian,Chinese",Nsp,55
+463051,Rohini,Delhi,Zaika The Bakers,400,2.9,80,Pizzas,Rohini,38
+465835,Rohini,Delhi,Jay Mata Ji Home Kitchen,200,2.9,80,South Indian,Rohini,28
+465872,Rohini,Delhi,Chinese Kitchen King,150,2.9,80,"Chinese,Snacks,Tandoor",Rohini,58
+465990,Rohini,Delhi,Shree Ram Paratha Wala,150,2.9,80,"North Indian,Indian,Snacks",Rohini,28
