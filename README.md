@@ -1,1 +1,1 @@
-# Delhi_Swiggy_restaurants_analysis_using_SQL
+# Swiggy_Delhi_Restaurants_analysis_using_SQL
